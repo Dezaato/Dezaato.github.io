@@ -340,8 +340,14 @@ body{
     color: #fff;
     font-size: 1.2rem;
 }
-
-
+.button{
+    align-items:center;
+    padding:5px
+        margin:5px
+        background-color:orange;
+text-decoration:none
+color:black;
+}
 
 
 
