@@ -343,10 +343,10 @@ body{
 .button{
     align-items:center;
     padding:5px
-        margin:5px
-        background-color:orange;
-text-decoration:none
-color:#fff;
+    margin:5px;
+    background-color:orange;
+    color:#fff;
+    text-decoration:none;
 }
 
 
