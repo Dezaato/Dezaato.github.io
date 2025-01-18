@@ -342,8 +342,8 @@ body{
 }
 .button{
     align-items:center;
-    padding:5px
-    margin:5px;
+    padding:10px
+    margin:10px;
     background-color:orange;
     color:#fff;
     text-decoration:none;
